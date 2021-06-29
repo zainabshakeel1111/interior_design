@@ -1,0 +1,411 @@
+.AA {
+  justify-content: space-around;
+  color: black;
+}
+.BB {
+  border-radius: 25px;
+  background-color: rgb(248, 127, 83);
+}
+.para {
+  text-align: justify;
+}
+.CC {
+  color: rgb(248, 127, 83);
+}
+.JH {
+  /* padding-left: 10px; */
+}
+.DD {
+  background-color: rgb(243, 248, 252);
+}
+.EE {
+  /* margin: 50px 90px; */
+}
+.FF {
+  margin: auto;
+}
+.GG {
+  /* padding: 30px 0px;
+  padding-left: 150px; */
+}
+
+.KL {
+  font-size: smaller;
+}
+.KK {
+  padding-left: 50px;
+}
+
+.UM {
+  height: 200px;
+  margin-top: 50px;
+  margin-left: 20px;
+  padding-top: 20px;
+  width: 290px;
+  background-color: rgb(243, 248, 252);
+}
+.LL {
+  border-radius: 50%;
+  /* position: relative; */
+}
+.LL1 {
+  border-radius: 50%;
+  /* position: relative; */
+}
+.LL2 {
+  border-radius: 50%;
+  /* position: relative; */
+}
+.MM {
+  margin: 10px 20px;
+  padding: 20px 50px;
+  
+  
+}
+.NN {
+  border-radius: 50%;
+}
+
+.PP {
+  padding: 0px 460px;
+}
+.RR {
+  color: orange;
+}
+.RN {
+  border-radius: 10px;
+  background-color: rgb(248, 127, 83);
+}
+.BG {
+  background-color: rgb(53, 49, 49);
+}
+.BT {
+  background-color: rgb(248, 127, 83);
+}
+.QR {
+  height: 90px;
+  width: 80px;
+
+  display: inline-block;
+}
+.DG {
+  background-color: rgb(243, 247, 252);
+  /* margin-left: 5px; */
+  height: 280px;
+}
+.wow {
+  background-color: rgb(248, 127, 83);
+}
+.LN {
+  height: 55px;
+  width: 80%;
+  margin-top: 10px;
+  margin-bottom: 5px;
+  font-size: medium;
+  border-radius: 25px;
+  border: 1px solid rgb(248, 127, 83);
+}
+.one {
+  background-color: white;
+  /* opacity: 0.9; */
+  color: white;
+}
+.ML {
+  font-weight: 400;
+  font-size: large;
+}
+
+.LK {
+  margin-top: 15px;
+  margin-bottom: 10px;
+  font-weight: 500;
+  font-size: xx-large;
+}
+.KN {
+  border-radius: 25px;
+  background-color: white;
+  border: 1px solid rgb(248, 127, 83);
+}
+.ST {
+  background-color: rgb(243, 247, 252);
+  font-size: smaller;
+  /* margin-left: 17px; */
+}
+.CM {
+  background-color: rgb(243, 247, 252);
+  /* margin-left: 15px; */
+}
+.YR {
+  display: flex;
+  flex-direction: row;
+}
+
+.GH {
+  background-color: rgb(243, 247, 252);
+  padding: 40px 25px;
+  justify-content: center;
+}
+.DR {
+  height: 80px;
+  width: 70px;
+  border-radius: 50%;
+  display: inline-block;
+}
+.RM {
+  font-size: smaller;
+  display: inline;
+}
+.XM1 {
+  height: 500px;
+  width: 450px;
+  background-color: #fc6600;
+  color: #ffffff;
+  opacity: 0.6;
+  position: absolute;
+  left: 68px;
+}
+.XM1 h3 {
+  position: relative;
+  top: 420px;
+  left: 110px;
+}
+.XM2 {
+  height: 500px;
+  width: 450px;
+  background-color: #fc6600;
+  color: #ffffff;
+  opacity: 0.6;
+  position: absolute;
+  right: 156px;
+}
+.XM2 h3 {
+  position: relative;
+  top: 420px;
+  left: 110px;
+}
+.XM3 {
+  height: 500px;
+  width: 450px;
+  background-color: #fc6600;
+  color: #ffffff;
+  opacity: 0.6;
+  position: absolute;
+  left: 68px;
+}
+.XM3 h3 {
+  position: relative;
+  top: 420px;
+  left: 110px;
+}
+.XM4 {
+  height: 500px;
+  width: 450px;
+  background-color: #fc6600;
+  color: #ffffff;
+  opacity: 0.6;
+  position: absolute;
+  right: 156px;
+}
+.XM4 h3 {
+  position: relative;
+  top: 420px;
+  left: 110px;
+}
+.XM5 {
+  height: 500px;
+  width: 450px;
+  background-color: #fc6600;
+  color: #ffffff;
+  opacity: 0.6;
+  position: absolute;
+  left: 68px;
+}
+.XM5 h3 {
+  position: relative;
+  top: 420px;
+  left: 110px;
+}
+.XM6 {
+  height: 500px;
+  width: 450px;
+  background-color: #fc6600;
+  color: #ffffff;
+  opacity: 0.6;
+  position: absolute;
+  right: 156px;
+}
+.XM6 h3 {
+  position: relative;
+  top: 420px;
+  left: 110px;
+}
+.XM7 {
+  height: 500px;
+  width: 450px;
+  background-color: #fc6600;
+  color: #ffffff;
+  opacity: 0.6;
+  position: absolute;
+  left: 68px;
+}
+.XM7 h3 {
+  position: relative;
+  top: 420px;
+  left: 110px;
+}
+.XM8 {
+  height: 500px;
+  width: 450px;
+  background-color: #fc6600;
+  color: #ffffff;
+  opacity: 0.6;
+  position: absolute;
+  right: 156px;
+}
+.XM8 h3 {
+  position: relative;
+  top: 420px;
+  left: 110px;
+}
+.photo {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  background-color: #fc6600;
+  color: #ffffff;
+  position: absolute;
+  left: 75px;
+  opacity: 0.6;
+}
+
+.photo h4 {
+  position: relative;
+  top: 120px;
+}
+.photo1 {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  background-color: #fc6600;
+  color: #ffffff;
+  position: absolute;
+  top: 0px;
+  left: 13px;
+  opacity: 0.6;
+}
+
+.photo1 h4 {
+  position: relative;
+  top: 120px;
+}
+.photo2 {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  background-color: #fc6600;
+  color: #ffffff;
+  position: absolute;
+  top: 0px;
+  left: 13px;
+  opacity: 0.6;
+}
+
+.photo2 h4 {
+  position: relative;
+  top: 120px;
+}
+
+.JK {
+  background-color: rgb(243, 247, 252);
+  text-align: left;
+  /* padding: 10px 5px; */
+  font-size: small;
+}
+.LM {
+  font-size: smaller;
+  justify-content: space-around;
+}
+.OP {
+  margin: auto;
+}
+.GH {
+  color: rgb(49, 48, 48);
+}
+.IJ {
+  background-color: rgb(243, 247, 252);
+  height: 80px;
+  width: 350px;
+  text-align: center;
+  margin-left: 5px;
+}
+
+.ZZ {
+  height: 430px;
+  width: 500px;
+  /* margin-left: 55px; */
+}
+.YY {
+  background: url(../photos/bedroom-5664221_1920.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  background-blend-mode: overlay;
+  background-color: rgba(0, 0, 0, 0.8);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 300px;
+  width: 100%;
+  color: #ffffff;
+}
+
+.YY img {
+  background-color: #2f2727;
+  background-blend-mode: overlay;
+  opacity: 0.4;
+}
+.Bx {
+  position: absolute;
+  top: 235px;
+  right: 310px;
+  color: #ffffff;
+}
+.hdd {
+  margin-right: -410px;
+  margin-top: 40px;
+}
+
+.CD {
+  background-color: rgb(243, 248, 252);
+  height: 442px;
+  width: 500px;
+  /* margin-right: 120px; */
+}
+.EF {
+  font-size: 1.2rem;
+  padding: 5px 10px;
+}
+.carousel-cell {
+  display: inline-block;
+  margin: 0 15px;
+  overflow: hidden;
+}
+/* .By {
+  margin-right: -100px;
+  padding-left: 70px;
+} */
+.Bz {
+  /* margin-left: 5px; */
+  padding-left: 180px;
+  padding-top: 10px;
+}
+.AB {
+  background-color: rgb(250, 192, 170);
+  height: 550px;
+}
+
+@media screen and (max-width: 468px) {
+  .UM {
+    height: 250px;
+  }
+}
